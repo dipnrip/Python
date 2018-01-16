@@ -1,0 +1,27 @@
+Phasing Data
+RECORDNAME,INTID,D1,D2,D3,D4,D5,D6,D7,D8
+BRP,3,111,112,211,212,121,122,221,222
+MinGreen,3,,4,,4,,4,,4
+MaxGreen,3,,19,,23,,19,,23
+VehExt,3,,3,,3,,3,,3
+TimeBeforeReduce,3,,0,,0,,0,,0
+TimeToReduce,3,,0,,0,,0,,0
+MinGap,3,,3,,3,,3,,3
+Yellow,3,,3.5,,3.5,,3.5,,3.5
+AllRed,3,,0.5,,0.5,,0.5,,0.5
+Recall,3,,3,,3,,3,,3
+Walk,3,,5,,5,,5,,5
+DontWalk,3,,11,,11,,11,,11
+PedCalls,3,,0,,0,,0,,0
+MinSplit,3,,20,,20,,20,,20
+DualEntry,3,,1,,1,,1,,1
+InhibitMax,3,,1,,1,,1,,1
+Start,3,,0,,23,,0,,23
+End,3,,23,,0,,23,,0
+Yield,3,,19,,46,,19,,46
+Yield170,3,,8,,35,,8,,35
+LocalStart,3,,0,,23,,0,,23
+LocalYield,3,,19,,46,,19,,46
+LocalYield170,3,,8,,35,,8,,35
+ActGreen,3,,19,,23,,19,,23
+
